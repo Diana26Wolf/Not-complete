@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+button {
+    background-color: black;
+    border-color: white;
+    border-style: solid;
+    height: 40px;
+    width: 80px;
+}
+#camera, #picture{
+    width: 400px;
+    height: 350px;
+    border-color: white;
+    border-style: double;
+    border-width: 4px;
+    margin-bottom: 30px;
+}
+.object{
+    color: yellow;
+}
